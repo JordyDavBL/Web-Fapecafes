@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Configuración base de la API
-const API_URL = 'http://localhost:8000/api';
+const API_URL = 'https://web-fapecafes-backend.onrender.com/api';
 
 // Instancia de axios configurada
 const api = axios.create({
