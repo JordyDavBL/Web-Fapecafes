@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JordyDavBL/Web-Fapecafes.git/static/css/main.3c9ef87a.css",
+    "main.js": "/JordyDavBL/Web-Fapecafes.git/static/js/main.4a9ec1b4.js",
+    "static/js/239.fcaddd2b.chunk.js": "/JordyDavBL/Web-Fapecafes.git/static/js/239.fcaddd2b.chunk.js",
+    "static/js/977.d09af86f.chunk.js": "/JordyDavBL/Web-Fapecafes.git/static/js/977.d09af86f.chunk.js",
+    "static/js/732.447e1da6.chunk.js": "/JordyDavBL/Web-Fapecafes.git/static/js/732.447e1da6.chunk.js",
+    "static/js/453.8ab44547.chunk.js": "/JordyDavBL/Web-Fapecafes.git/static/js/453.8ab44547.chunk.js",
+    "static/media/coffee-beans.jpg": "/JordyDavBL/Web-Fapecafes.git/static/media/coffee-beans.32b19b5a23cf792127a6.jpg",
+    "index.html": "/JordyDavBL/Web-Fapecafes.git/index.html",
+    "main.3c9ef87a.css.map": "/JordyDavBL/Web-Fapecafes.git/static/css/main.3c9ef87a.css.map",
+    "main.4a9ec1b4.js.map": "/JordyDavBL/Web-Fapecafes.git/static/js/main.4a9ec1b4.js.map",
+    "239.fcaddd2b.chunk.js.map": "/JordyDavBL/Web-Fapecafes.git/static/js/239.fcaddd2b.chunk.js.map",
+    "977.d09af86f.chunk.js.map": "/JordyDavBL/Web-Fapecafes.git/static/js/977.d09af86f.chunk.js.map",
+    "732.447e1da6.chunk.js.map": "/JordyDavBL/Web-Fapecafes.git/static/js/732.447e1da6.chunk.js.map",
+    "453.8ab44547.chunk.js.map": "/JordyDavBL/Web-Fapecafes.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9ef87a.css",
+    "static/js/main.4a9ec1b4.js"
+  ]
+}
